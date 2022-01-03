@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Davood Jannat","email":"davood.jannat@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCard059EEA84F5554E5B94CFDED94E43F386.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"CircleCard","displayName":"Circle Card","guid":"circleCard059EEA84F5554E5B94CFDED94E43F386","visualClassName":"Visual","version":"1.0.0","description":"Show value in circle card.","supportUrl":"https://pbidax.ir/visuals/circlecard","gitHubUrl":"https://github.com/jannat21/pbi-visuals-circlecard.git"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
